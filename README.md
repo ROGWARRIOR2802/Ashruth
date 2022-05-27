@@ -1,4 +1,4 @@
-# Musicr - Redefine the Music Player
+# Ashruth - Redefine the Music Player
 **A pretty UI&UX Music Player**
 
 ## Features
@@ -17,11 +17,8 @@ The app will be available in Google Play Store soon.
 ```
 Comming soon
 ```
-### APK
-Download apk file here [Music player v1.3](https://github.com/dtrung98/Source/raw/master/musicr.apk)
-```
-https://github.com/dtrung98/Source/raw/master/musicr.apk
-```
+
+
 ## Screenshots
 </br>
 <div align="center">
@@ -65,18 +62,6 @@ src="https://user-images.githubusercontent.com/33343210/61764970-4eb40180-ae05-1
   </div>
 </br>
 
-## Authors
-
-* **Le Dinh Trung (ldt)** - *Initial work* - [dtrung98](https://github.com/dtrung98)
-
-
-### License
-
-* This project is licensed under The GNU General Public License v3.0 - see the [LICENSE.md](/LICENSE) file for details
-
-### Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+![hack-o-relay-readme](https://user-images.githubusercontent.com/90858515/170770385-64ad5339-0ffe-4f56-b439-73af3c9479d8.png)
+TEAM : ROG
 
