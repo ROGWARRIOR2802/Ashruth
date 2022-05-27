@@ -1,6 +1,12 @@
 # Ashruth - Redefine the Music Player
 **A pretty UI&UX Music Player**
-
+![hack-o-relay-readme](https://user-images.githubusercontent.com/90858515/170770385-64ad5339-0ffe-4f56-b439-73af3c9479d8.png)
+TEAM : ROG
+Project Name: ASHRUTH
+T R A C K 2
+Prototyping/Wireframing
+Create a music player
+Team member: Akash Singh 
 ## Features
 * Dark Theme Style with wallpaper as background
 * Single activity, all fragments architecture with fancy animation
@@ -62,6 +68,5 @@ src="https://user-images.githubusercontent.com/33343210/61764970-4eb40180-ae05-1
   </div>
 </br>
 
-![hack-o-relay-readme](https://user-images.githubusercontent.com/90858515/170770385-64ad5339-0ffe-4f56-b439-73af3c9479d8.png)
-TEAM : ROG
+
 
